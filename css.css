@@ -63,12 +63,14 @@
 
        text-decoration: none;
 
+       transition: 0.5s;
+
     }
 
     #menu a:hover {
 
         background: #8AB8CC;
-
+transition: 0.5s;
     }
 
 .body{
