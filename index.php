@@ -14,13 +14,13 @@
 <nav>
 <ul id="menu">
 
-    <li><a href="index.html">Главная</a></li>
+    <li><a href="index.php">Главная</a></li>
 
-    <li><a href="uroki.html">Уроки по HTML</a></li>
+    <li><a href="uroki.php">Уроки по HTML</a></li>
 
-    <li><a href="kontakti.html">Тех.Поддержка</a></li>
+    <li><a href="kontakti.php">Тех.Поддержка</a></li>
 
-    <li><a href="osite.html">О сайте</a></li>
+    <li><a href="osite.php">О сайте</a></li>
 
 </ul>
 <font size="8" color="red">

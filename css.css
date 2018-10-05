@@ -25,7 +25,7 @@
 	border-width:6px;
 	}
 
-
+W
 
 	  #menu, #menu li {
 
@@ -40,6 +40,8 @@
         text-align: center;
 
        background: #03658e;
+
+
 
     }
 
@@ -64,6 +66,8 @@
        text-decoration: none;
 
        transition: 0.5s;
+
+       padding:10px;
 
     }
 

@@ -14,13 +14,13 @@
 <nav>
 <ul id="menu">
 
-    <li><a href="index.html">Главная</a></li>
+    <li><a href="index.php">Главная</a></li>
 
-    <li><a href="uroki.html">Уроки по HTML</a></li>
+    <li><a href="uroki.php">Уроки по HTML</a></li>
 
-    <li><a href="kontakti.html">Тех.Поддержка</a></li>
+    <li><a href="kontakti.php">Тех.Поддержка</a></li>
 
-    <li><a href="osite.html">О сайте</a></li>
+    <li><a href="osite.php">О сайте</a></li>
 
 </ul>
 <font size="8" color="red">
@@ -34,7 +34,9 @@
 	<ARTICLE>
 	
 			<center>
-			<p style="color:white; background-color:gray"></a></p>
+			<p style="color:white; background-color:red">Skype- -_-Max_Voices-_-</p>
+			<p style="color:white; background-color:red">Raid-Call- maximkahackers@raidcall.com</p>
+			<p style="color:white; background-color:red">VKontakte-<a href="https://vk.com/max.golosov"> vk.com/max.golosov</a></p>
 		</center>
 		<section>
 			
